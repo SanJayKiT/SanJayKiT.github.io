@@ -1,0 +1,33 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+body {
+	background: url(screen.JPG) no-repeat;
+	background-size: cover;
+	text-align: center;
+	color: white;
+}
+input {
+	border: none;
+	border-bottom: 2px solid white;
+	height: 2rem;
+	width: 25%;
+}
+p {
+	margin: 10px;
+	font-size: 2rem;
+}
+button {
+	background-color: #00008b;
+	border: none;
+	color: white;
+	padding: 16px 32px;
+	margin: 10px;
+	cursor: pointer;
+}
+.title {
+	font-size: 2rem;
+	margin: 5%;
+}

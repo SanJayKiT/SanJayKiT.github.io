@@ -1,0 +1,16 @@
+{
+  "name": "projekt",
+  "version": "1.0.0",
+  "description": "projekt for projekt",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "server": "nodemon index"
+  },
+  "author": "I",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.6"
+  }
+}
