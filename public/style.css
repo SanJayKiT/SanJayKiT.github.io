@@ -4,7 +4,7 @@
 	box-sizing: border-box;
 }
 body {
-	background: url(screen.JPG) no-repeat;
+	background: url(/screen.jpg) no-repeat;
 	background-size: cover;
 	text-align: center;
 	color: white;
